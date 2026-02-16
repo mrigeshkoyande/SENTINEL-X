@@ -69,6 +69,9 @@ Built with Next.js 14 and React, featuring:
 - ✅ **API-First Design**: RESTful and WebSocket APIs for integrations
 - ✅ **Comprehensive Logging**: Detailed audit trails and forensic data
 
+<img width="1919" height="865" alt="Screenshot 2026-02-08 220922" src="https://github.com/user-attachments/assets/501e4d37-a74f-425b-9939-ae68822fbf69" />
+<img width="1919" height="874" alt="Screenshot 2026-02-08 220938" src="https://github.com/user-attachments/assets/a949efa7-8529-4c9f-8038-ee7b857b2b25" />
+
 ---
 
 ## 🏗️ Architecture
@@ -358,9 +361,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Project Maintainer**: Mrigesh Koyande
 
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
-- 📧 Email: your.email@example.com
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 🐙 GitHub: [@mrigeshkoyande](https://github.com/mrigeshkyande)
+- 📧 Email: mrigeshkoyande@email.com
+
 
 ---
 
